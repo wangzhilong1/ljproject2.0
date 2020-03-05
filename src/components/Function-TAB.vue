@@ -13,7 +13,7 @@
     </div>
 <div class="GNCD"><!--功能菜单栏 -->
     <div  class="xbsj-list-item">
-        <span class="list-name"></span>
+        <span class="list-name">测量</span>
     </div>
     <div  class="xbsj-list-item">
         <span class="list-name"></span>
