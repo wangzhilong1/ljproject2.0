@@ -1,12 +1,11 @@
 <!--
-@Author:zhangbo
+@Author:wangzhilong
 @Date:2019-05-15 09:21:08
-@E-mail:zhangb@geovie.com.cn
+@E-mail:wangzhilongAIGIS@163.com
 -->
 <!--
-@将cesium地球放在layout里面
-@将layout放在APP里面
-
+  *@将cesium地球放在layout里面
+  *@将layout放在APP里面
 -->
 <template>
   <div>
@@ -17,7 +16,7 @@
 
 <script>
 import earthViewer from "./cesiumViewer";
-import cesiumDrawViewer from '@/components/cesiumDrawViewer'
+import cesiumDrawViewer from '@/components/Function-TAB'
 const Cesium = window.Cesium;
 export default {
   data() {

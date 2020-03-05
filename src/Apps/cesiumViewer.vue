@@ -1,13 +1,11 @@
 <!--
-@Author:zhangbo
-@Date:2019-03-13 10:36:32
-@E-mail:zhangb@geovie.com.cn
-@Last Modified by:zhangbo
-@Modify-Date:2019-9-24 20:07
+@Author:wangzhilong
+@E-mail:wangzhilongAIGIS@163.com
+@Modify-Date:2019-4-24 20:07
 
 -->
 <template>
-  <div style="width:100%;height: 100%" class="fullSize">
+  <div style="" class="fullSize">
     <div class="full-container" :style="viewStyle" id="cesiumContainer"></div>
     <div id="loadingOverlay">
       <h1>Loading...</h1>
@@ -121,7 +119,10 @@ export default {
 </script>
 
 <style scoped>
-.fullSize,
+.fullSize{
+  width:100%;
+  height: calc(100% - 137px);
+}
 .full-container {
   position: absolute;
   /*top: 0;*/

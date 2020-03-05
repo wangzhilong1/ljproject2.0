@@ -1,8 +1,8 @@
 <!--
- * @Author: zhangbo
- * @E-mail: zhangb@geovis.com.cn
- * @Date: 2019-12-19 12:37:53
- * @LastEditors: zhangbo
+ *@Author:wangzhilong
+ *@data:2020.03.04
+ *@E-mail:wangzhilongAIGIS@163.com
+ * @LastEditors: wangzhilong
  * @LastEditTime: 2020-02-28 18:44:03
  * @Desc: cesium标绘面板
  -->

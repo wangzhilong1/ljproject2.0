@@ -1,10 +1,11 @@
 <!--
  * @Author: zhangbo
- * @E-mail: zhangb@geovis.com.cn
+ *@Author:wangzhilong
+ *@E-mail:wangzhilongAIGIS@163.com
  * @Date: 2019-12-23 16:34:02
  * @LastEditors: zhangbo
  * @LastEditTime: 2020-02-28 11:44:11
- * @Desc: 
+ * @Desc:
  -->
 <template>
   <div class="layer-manager-box" id="layer-manager-box">
